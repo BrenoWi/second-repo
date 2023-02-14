@@ -1,1 +1,4 @@
 Boa noite - criar via interface do github
+
+
+edição do arquivo via vscode
